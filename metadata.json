@@ -1,0 +1,6 @@
+{
+  "name": "智能营销系统",
+  "description": "面向虚拟货币交易所运营人员的AI智能营销与多渠道内容生成及闭环优化系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
